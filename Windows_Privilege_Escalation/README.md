@@ -21,11 +21,11 @@ This project was conducted as part of the Cybersecurity Bootcamp at the Universi
 - Verification: Confirmed the elevation of privileges by checking the user ID post-exploitation, ensuring we had achieved SYSTEM level access.
 
 ## Key Learnings
--Understanding of Windows Privileges: This activity deepened the understanding of Windows user privilege levels and how certain misconfigurations or vulnerabilities can be exploited to escalate privileges.
--Metasploit's Power and Flexibility: Learned to effectively use Metasploit's suite of tools for penetration testing, particularly for local exploitation and persistence.
--The Importance of System Hardening: Realized the significance of regularly auditing and hardening systems against such exploits. This includes ensuring services and applications run with the least privileges necessary and keeping systems updated.
--Security Awareness: Gained insights into the mindset of an attacker, which is invaluable for defending against similar attacks. Understanding the tools and methods used by attackers can guide more effective defensive strategies.
--Ethical Considerations: Reinforced the ethical responsibilities that come with cybersecurity skills. Such techniques should only be used in controlled environments for educational purposes or authorized penetration testing.
+- Understanding of Windows Privileges: This activity deepened the understanding of Windows user privilege levels and how certain misconfigurations or vulnerabilities can be exploited to escalate privileges.
+- Metasploit's Power and Flexibility: Learned to effectively use Metasploit's suite of tools for penetration testing, particularly for local exploitation and persistence.
+- The Importance of System Hardening: Realized the significance of regularly auditing and hardening systems against such exploits. This includes ensuring services and applications run with the least privileges necessary and keeping systems updated.
+- Security Awareness: Gained insights into the mindset of an attacker, which is invaluable for defending against similar attacks. Understanding the tools and methods used by attackers can guide more effective defensive strategies.
+- Ethical Considerations: Reinforced the ethical responsibilities that come with cybersecurity skills. Such techniques should only be used in controlled environments for educational purposes or authorized penetration testing.
 
 ## Further Improvements
 Change the executable name it assigns such as "REMOTE_EXE_NAME to something more stealthy such as "explorer.exe" so it looks like a regular service being ran. 
