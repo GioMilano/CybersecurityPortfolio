@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document details the findings from a comprehensive penetration test conducted MegaCorpOne's network and web applications. The objective was to identify vulnerabilities, exploit them to assess the potential impact, and recommend mitigations to enhance security.
+This document details the findings from a comprehensive penetration test conducted on MegaCorpOne's network and web applications. The objective was to identify vulnerabilities, exploit them to assess the potential impact, and recommend mitigations to enhance security.
 
 ## Objectives
 
